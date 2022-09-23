@@ -6,7 +6,7 @@ padding: 0px;
 
 
 body{ background-color: rgba(142, 59, 220, 0.568);
-    font: normal 15pt arial;
+    font: normal 14pt arial;
     
 }
 header{ text-align: center;
@@ -17,7 +17,7 @@ section{ background-color: white;
         margin: auto;
         margin-top: 10px;
         margin-bottom: 10px;
-        width: 50vw;
+        width: 55vw;
         padding: 20px;
         border-radius: 10px;
         line-height: 30px;
