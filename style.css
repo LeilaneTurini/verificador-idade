@@ -1,49 +1,60 @@
 @charset "UTF-8";
 
-*{ margin: 0px;
-padding: 0px;
+* { 
+    margin: 0px;
+    padding: 0px;
 }
 
 
-body{ background-color: rgba(142, 59, 220, 0.568);
+body {
+    background-color: rgba(142, 59, 220, 0.568);
     font: normal 14pt arial;
-    
-}
-header{ text-align: center;
-color: white;
-margin-top: 20px;}
 
-section{ background-color: white;
-        margin: auto;
-        margin-top: 10px;
-        margin-bottom: 10px;
-        width: 80vw;
-        padding: 20px;
-        border-radius: 10px;
-        line-height: 30px;
-        box-shadow: 2px 2px  rgba(120, 120, 120, 0.349);
-    }
-    input#ano{ border-radius: 5px;
-    }    
-    input#botao {
-        border-radius: 3px;
-       width: 200px;
-       padding: 5px;
-       border-color: rgba(133, 133, 133, 0.275);
-           }
-         
-    div#res{
-        text-align: center;
-    }
-    div#img{
-        text-align: center;
-    }
-    div >p{
-        margin-bottom: 2px;
-        padding: 10px;
-        text-align: center;
-    }
+}
+
+header {
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+}
+
+section {
+    background-color: white;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 85vw;
+    padding: 20px;
+    border-radius: 10px;
+    line-height: 35px;
+    box-shadow: 2px 2px rgba(120, 120, 120, 0.349);
+}
+
+input#ano {
+    border-radius: 5px;
+}
+
+input#botao {
+    border-radius: 3px;
+    width: 200px;
+    padding: 5px;
+    border-color: rgba(133, 133, 133, 0.275);
+}
+
+div#res {
+    text-align: center;
+    margin-top: 10px;
     
-    footer{ color: white; 
-        text-align: center;
-            font-style: italic;}
+   
+}
+
+div#img {
+    text-align: center;
+  
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
