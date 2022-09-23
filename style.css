@@ -8,7 +8,7 @@
 
 body {
     background-color: rgba(142, 59, 220, 0.568);
-    font: normal 14pt arial;
+    font: normal 12pt arial;
 
 }
 
@@ -23,7 +23,7 @@ section {
     margin: auto;
     margin-top: 10px;
     margin-bottom: 10px;
-    width: 400px;
+    width: 350px;
     padding: 20px;
     border-radius: 10px;
     line-height: 35px;
