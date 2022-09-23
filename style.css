@@ -1,15 +1,23 @@
 @charset "UTF-8";
 
+*{ margin: 0px;
+padding: 0px;
+}
+
+
 body{ background-color: rgba(142, 59, 220, 0.568);
     font: normal 15pt arial;
     
 }
 header{ text-align: center;
-color: white;}
+color: white;
+margin-top: 20px;}
 
 section{ background-color: white;
         margin: auto;
-        width: 400px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+        width: 60vw;
         padding: 20px;
         border-radius: 10px;
         line-height: 30px;
@@ -22,7 +30,7 @@ section{ background-color: white;
     }
     div >p{
         margin-bottom: 2px;
-        padding: 0px;
+        padding: 10px;
         text-align: center;
     }
     
